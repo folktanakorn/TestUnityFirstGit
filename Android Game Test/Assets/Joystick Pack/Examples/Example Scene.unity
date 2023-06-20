@@ -1655,7 +1655,7 @@ GameObject:
   - component: {fileID: 789881834}
   - component: {fileID: 789881833}
   m_Layer: 0
-  m_Name: TestBranching
+  m_Name: TestBranching2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
